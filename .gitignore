@@ -1,4 +1,6 @@
 Data
 Data/Labeled
 Data/Unlabeled
-.ipynb_checkpoints/Optomap Visualization-checkpoint.ipynb
+.ipynb_checkpoints/Optomap Autoencoders-checkpoint.ipynb
+.ipynb_checkpoints/Optomap Preprocessing-checkpoint.ipynb
+.DS_Store
